@@ -73,11 +73,11 @@
 <!--END_SECTION:activity-->
 
 </details>
-<img align="left" alt="hash-xx's GitHub Stats" src="https://github-readme-stats.hash-xx.vercel.app/api?username=hash-xx&show_icons=true&hide_border=true" />
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  
+  <img align="left" alt="hash-xx's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hash-xx&show_icons=true&hide_border=true" />
 
 </details>
 
