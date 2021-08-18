@@ -1,6 +1,6 @@
 ### Hi there, I'm SMD - [HashX][www.hashx.me] 👋
 
-[![Website](https://img.shields.io/website?label=Hashx.me.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://Hashx)
+[![Website](https://img.shields.io/website?label=Hashx.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://Hashx.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/s_thiranjaya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fs_thiranjaya&screen_name=s_thiranjaya)
 
 ## I'm a Student, Designer, Developer, and Streamer!!
