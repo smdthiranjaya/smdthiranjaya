@@ -46,25 +46,15 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [⭐ BONUS: STACKr News Shorts - Add Authentication to Next.js](https://www.youtube.com/watch?v=H37-PgkpBO0)
-- [VS Code Has Dev Tools & Console!! No Need For Chrome Anymore 👋](https://www.youtube.com/watch?v=vHZPeohPHqo)
-- [⭐ BONUS: STACKr News Shorts - BYE BYE VS CODE ??](https://www.youtube.com/watch?v=r2ha0n2s3wE)
-- [⭐ BONUS: STACKr News Shorts - 5 Things Better in Svelte than React](https://www.youtube.com/watch?v=I-8aVr7vnlA)
-- [Bootcamp Graduate Advice 💪, Who's the CSS King? 👑, GitHub Copilot 🤖 // STACKr News Weekly - Issue 5](https://www.youtube.com/watch?v=F6KzVOrhEXw)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
 
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
-- [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
