@@ -8,7 +8,7 @@
 - 🔭 I’m currently working as a student at NIBM.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Create my own world(Game)
+- 🥅 2021 Goals: Create my own world(Game)
 - ⚡ Fun fact: I love to design and steam pc games(links down below)
 
 ### Connect with me:
