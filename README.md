@@ -76,7 +76,7 @@
 
   <img align="left" alt="hash-xx's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hash-xx&show_icons=true&hide_border=true&theme=radical" />
 
-  <img align="left" alt="hash-xx's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-xx&langs_count=8" />
+  <img align="left" alt="hash-xx's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-xx&langs_count=8&theme=radical" />
 
 
 
