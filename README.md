@@ -62,7 +62,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://elamalk.blogspot.com)
 
 ---
 
