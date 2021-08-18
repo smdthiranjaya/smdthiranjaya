@@ -74,12 +74,9 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="hash-xx's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hash-xx&show_icons=true&hide_border=true&theme=radical" />
 
-  <img align="left" alt="hash-xx's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hash-xx&show_icons=true&hide_border=true" />
 
-</details>
 
 [website]: https://hashx.me
 [twitter]: https://twitter.com/s_thiranjaya
