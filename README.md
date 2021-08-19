@@ -47,10 +47,10 @@
 
 <!-- YOUTUBE:START -->
 - [Left 4 Dead 2 #04 ස්ටේජ් එක උඩ සොම්බි 10000කට දුන්නු ගේම.. ☠️😂](https://www.youtube.com/watch?v=KocN5ZIn1hM)
-- [Left 4 Dead 2 #05](https://www.youtube.com/watch?v=Lssboh7b4kk)
 - [Left 4 Dead 2 #03 ගෑස් එකතු කරලා පනිමු 😂](https://www.youtube.com/watch?v=orShwHMX-7k)
 - [Left 4 Dead 2 #02 First Impression ඒආර් දිරනවා සොටි ඉතුරුවෙනවා.. 🙈](https://www.youtube.com/watch?v=uPWwyii1Gc8)
 - [Left 4 Dead 2 #01 First Impression සොම්බි කමු.. 💀](https://www.youtube.com/watch?v=rzGuvfX5n0o)
+- [Rocket League #06 Season 04 New Update EXE සෙස් ගැන්ග් ගැම්ම.. 😹](https://www.youtube.com/watch?v=yx4D9uiHFfo)
 <!-- YOUTUBE:END -->
 
 
