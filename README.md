@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Left 4 Dead 2 #08](https://www.youtube.com/watch?v=nS8FEFz91c8)
 - [Left 4 Dead 2 ත්‍රාසය භීතිය කුතුහලය සමගින් #07](https://www.youtube.com/watch?v=TmfS3u23v9M)
 - [Left 4 Dead 2 ත්‍රාසය භීතිය කුතුහලය සමගින් #06](https://www.youtube.com/watch?v=ia-elzdJ7yo)
 - [Left 4 Dead 2 ත්‍රාසය භීතිය කුතුහලය සමගින් #05](https://www.youtube.com/watch?v=7ZzJbqht4eA)
 - [Left 4 Dead 2 ත්‍රාසය භීතිය කුතුහලය සමගින් #05](https://www.youtube.com/watch?v=Lssboh7b4kk)
-- [Left 4 Dead 2 #04 ස්ටේජ් එක උඩ සොම්බි 10000කට දුන්නු ගේම.. ☠️😂](https://www.youtube.com/watch?v=KocN5ZIn1hM)
 <!-- YOUTUBE:END -->
 
 
