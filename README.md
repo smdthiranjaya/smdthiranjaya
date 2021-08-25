@@ -18,7 +18,7 @@
 ### Github Status:
 - ![Profile views](https://gpvc.arturio.dev/hash-xx)
 - [![GitHub followers](https://img.shields.io/github/followers/hash-xx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/hash-xx?tab=followers)
-- [![GitHub Stars](https://img.shields.io/github/stars/hash-xx?affiliations=OWNER%2CCOLLABORATOR)](https://github/stars/hash-xx/hash-xx?style=social)
+- [![GitHub Stars](https://img.shields.io/github/stars/hash-xx?affiliations=OWNER%2CCOLLABORATOR)]
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
