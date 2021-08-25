@@ -13,6 +13,8 @@
 - 🥅 2021 Goals: Create my own world(Game)
 - ⚡ Fun fact: I love to design and steam pc games(links down below)
 
+![Profile views](https://gpvc.arturio.dev/hash-xx)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
