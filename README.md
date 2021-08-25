@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://ibb.co/16h1pm0" alt="Hello world">
 
 ### Hi there, I'm SMD -  [HashX][website] 👋
 
