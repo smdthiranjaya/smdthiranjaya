@@ -17,7 +17,7 @@
 
 ### Github Status:
 - ![Profile views](https://gpvc.arturio.dev/hash-xx)
-- [![GitHub followers](https://img.shields.io/github/followers/hash-xx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/hash-xx?tab=followers)
+- [![GitHub followers](https://img.shields.io/github/followers/hash-xx.svg?style=social&label=Follow&maxAge=2592000)]
 - [![GitHub Stars](https://img.shields.io/github/stars/hash-xx/:repo?style=social&label=Stars&maxAge=2592000)](https://github/stars/:hash-xx/:repo?style=social)
 ### Connect with me:
 
