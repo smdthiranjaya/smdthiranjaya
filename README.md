@@ -5,6 +5,9 @@
 [![Youtube](https://img.shields.io/badge/-Youtube-c13584?style=flat&labelColor=red&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCheZOdn_MZrHQqvtoJh4S9w)
 [![Reddit](https://img.shields.io/badge/-Reddit-c13584?style=flat&labelColor=orange&logo=reddit&logoColor=white)](#)
 [![Twitch](https://img.shields.io/badge/-Twitch-c13584?style=flat&labelColor=blueviolet&logo=twitch&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/-Twitter-c13584?style=flat&labelColor=blueviolet&logo=twitter&logoColor=white)](https://twitter.com/HashX18)
+
+https://twitter.com/HashX18
 ### Hi there, I'm SMD -  [HashX][website] 👋
 
 [![Website](https://img.shields.io/website?label=hashx.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hashx.me)
