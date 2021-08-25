@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hash-xx)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/hashx_official/)
 [![Youtube](https://img.shields.io/badge/-Youtube-c13584?style=flat&labelColor=red&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCheZOdn_MZrHQqvtoJh4S9w)
-[![Facebook](https://img.shields.io/badge/-Facebook-c13584?style=flat&labelColor=red&logo=facebook&logoColor=white)](#)
+[![Reddit](https://img.shields.io/badge/-Reddit-c13584?style=flat&labelColor=red&logo=reddit&logoColor=white)](#)
 ### Hi there, I'm SMD -  [HashX][website] 👋
 
 [![Website](https://img.shields.io/website?label=hashx.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hashx.me)
