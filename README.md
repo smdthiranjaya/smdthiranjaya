@@ -5,11 +5,11 @@
 [![Youtube](https://img.shields.io/badge/-Youtube-c13584?style=flat&labelColor=red&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCheZOdn_MZrHQqvtoJh4S9w)
 [![Reddit](https://img.shields.io/badge/-Reddit-c13584?style=flat&labelColor=orange&logo=reddit&logoColor=white)](#)
 [![Twitch](https://img.shields.io/badge/-Twitch-c13584?style=flat&labelColor=blueviolet&logo=twitch&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/-Twitter-c13584?style=flat&labelColor=blueviolet&logo=twitter&logoColor=white)](https://twitter.com/HashX18)
+[![Twitter](https://img.shields.io/badge/-Twitter-c13584?style=flat&labelColor=blueviolet&logo=twitter&logoColor=white)](https://twitter.com/Hashx_official)
 ### Hi there, I'm SMD -  [HashX][website] 👋
 
 [![Website](https://img.shields.io/website?label=hashx.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hashx.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/HashX18?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHashX18&screen_name=HashX18)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Hashx_official?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHashx_official&screen_name=Hashx_official)
 
 ## I'm a Student, Designer, Developer, and Streamer!! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
