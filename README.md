@@ -11,7 +11,7 @@ https://twitter.com/HashX18
 ### Hi there, I'm SMD -  [HashX][website] 👋
 
 [![Website](https://img.shields.io/website?label=hashx.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hashx.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/s_thiranjaya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fs_thiranjaya&screen_name=s_thiranjaya)
+[![Twitter Follow](https://img.shields.io/twitter/follow/HashX18?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHashX18&screen_name=HashX18)
 
 ## I'm a Student, Designer, Developer, and Streamer!! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
