@@ -1,4 +1,4 @@
-<img src="https://ibb.co/16h1pm0" alt="Hello world">
+<img src="https://i.ibb.co/pyGcsL1/banner.jpg" alt="Hello world">
 
 ### Hi there, I'm SMD -  [HashX][website] 👋
 
