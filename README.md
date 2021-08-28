@@ -50,10 +50,10 @@
 
 <!-- YOUTUBE:START -->
 - [FiveM C CosmicV #01](https://www.youtube.com/watch?v=jJKz4BBc078)
-- [A Way Out #01](https://www.youtube.com/watch?v=9NtwnvcwWcc)
 - [Left 4 Dead 2 අවසානය වෙයිද #10](https://www.youtube.com/watch?v=KpSR6AATrTQ)
 - [Left 4 Dead 2 අවසානය වෙයිද #10](https://www.youtube.com/watch?v=Vs-ptvQ68JM)
 - [Left 4 Dead 2 ත්‍රාසය භීතිය කුතුහලය සමගින් #09](https://www.youtube.com/watch?v=CidYI43bH7g)
+- [Left 4 Dead 2  ත්‍රාසය භීතිය කුතුහලය සමගින්  #08](https://www.youtube.com/watch?v=nS8FEFz91c8)
 <!-- YOUTUBE:END -->
 
 
