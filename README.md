@@ -49,11 +49,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A Way Out #02](https://www.youtube.com/watch?v=MxZtoD3Ka0c)
 - [A Way Out #01](https://www.youtube.com/watch?v=9NtwnvcwWcc)
 - [FiveM C CosmicV #01](https://www.youtube.com/watch?v=jJKz4BBc078)
 - [Left 4 Dead 2 අවසානය වෙයිද #10](https://www.youtube.com/watch?v=KpSR6AATrTQ)
 - [Left 4 Dead 2 අවසානය වෙයිද #10](https://www.youtube.com/watch?v=Vs-ptvQ68JM)
-- [Left 4 Dead 2 ත්‍රාසය භීතිය කුතුහලය සමගින් #09](https://www.youtube.com/watch?v=CidYI43bH7g)
 <!-- YOUTUBE:END -->
 
 
