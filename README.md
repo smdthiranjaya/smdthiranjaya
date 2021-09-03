@@ -49,11 +49,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [A Way Out #04 Laundry Smuggle | The Way Out](https://www.youtube.com/watch?v=nGtEtZkk16c)
-- [A Way Out #03 Helping Hand | Work Detail | Cell Breach](https://www.youtube.com/watch?v=v_qbqc7DXYg)
-- [A Way Out #02](https://www.youtube.com/watch?v=I72ugj0m2dc)
-- [A Way Out #01 | Beginnings | The Yard](https://www.youtube.com/watch?v=9NtwnvcwWcc)
-- [FiveM C CosmicV #01](https://www.youtube.com/watch?v=jJKz4BBc078)
+- [Aliens Fireteam Elite පිටසක්වලයින්ට එරෙහිව ඩොට්ට සොයා ගියගමන](https://www.youtube.com/watch?v=UM6E0_FeVuc)
 <!-- YOUTUBE:END -->
 
 
