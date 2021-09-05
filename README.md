@@ -49,7 +49,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Aliens Fireteam Elite පිටසක්වලයින්ට එරෙහිව #04](https://www.youtube.com/watch?v=m_ZpuWRcZBQ)
 - [Aliens Fireteam Elite පිටසක්වලයින්ට එරෙහිව ඩොට්ට සොයා ගියගමන](https://www.youtube.com/watch?v=bhLNCCGVvrk)
 - [Aliens Fireteam Elite පිටසක්වලයින්ට එරෙහිව ඩොට්ට සොයා ගියගමන](https://www.youtube.com/watch?v=hV8vLmFr5jE)
 - [Aliens Fireteam Elite පිටසක්වලයින්ට එරෙහිව ඩොට්ට සොයා ගියගමන](https://www.youtube.com/watch?v=UM6E0_FeVuc)
