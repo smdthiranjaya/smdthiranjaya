@@ -53,6 +53,7 @@
 - [Aliens Fireteam Elite පිටසක්වලයින්ට එරෙහිව ඩොට්ට සොයා ගියගමන](https://www.youtube.com/watch?v=bhLNCCGVvrk)
 - [Aliens Fireteam Elite පිටසක්වලයින්ට එරෙහිව ඩොට්ට සොයා ගියගමන](https://www.youtube.com/watch?v=hV8vLmFr5jE)
 - [Aliens Fireteam Elite පිටසක්වලයින්ට එරෙහිව ඩොට්ට සොයා ගියගමන](https://www.youtube.com/watch?v=UM6E0_FeVuc)
+- [A Way Out #04 Laundry Smuggle | The Way Out](https://www.youtube.com/watch?v=nGtEtZkk16c)
 <!-- YOUTUBE:END -->
 
 
