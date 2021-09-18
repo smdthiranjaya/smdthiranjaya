@@ -49,11 +49,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Far Cry 3 | සැපක් ගමුතේ #01 😈](https://www.youtube.com/watch?v=-itS1pceoXM)
 - [World War Z | පිස්සු හැදෙන ග්‍රැෆික් #02 🙈](https://www.youtube.com/watch?v=WZ6jWIE4xTk)
 - [World War Z #01](https://www.youtube.com/watch?v=u4DguzqXhYw)
 - [Aliens Fireteam Elite First Impressions 👽 පිටසක්වලයින්ට එරෙහිව .. #4🔥](https://www.youtube.com/watch?v=m_ZpuWRcZBQ)
 - [Aliens Fireteam Elite First Impressions 👽 පිටසක්වලයින්ට එරෙහිව .. #3 🔥](https://www.youtube.com/watch?v=bhLNCCGVvrk)
-- [Aliens Fireteam Elite First Impressions 👽 පිටසක්වලයින්ට එරෙහිව .. #2 🔥](https://www.youtube.com/watch?v=hV8vLmFr5jE)
 <!-- YOUTUBE:END -->
 
 
