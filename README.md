@@ -49,11 +49,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Far Cry 3 | අභිරහස් දූපතේ සිට නැවතත් #03 😲](https://www.youtube.com/watch?v=AX1dFt65J-o)
 - [Among us 👋 | Sri Lanka | Sinhala | ආතල් 💀 #AmongUs #07](https://www.youtube.com/watch?v=SdknYZtnJBM)
 - [Among us 👋 | Sri Lanka | Sinhala |  සුපිරිම ආතල් එක මේකෙ 🤣 #AmongUs #06](https://www.youtube.com/watch?v=GjFs5Tfnsm4)
 - [Among us 😂 | Sri Lanka | Sinhala |  ත්‍රාසය භීතිය සමගින් 💫 #AmongUs #05](https://www.youtube.com/watch?v=0z0w61ccZMs)
 - [Among us 💦 | Sri Lanka | Sinhala |  පිස්සු හැදෙන ආතල් 😹 #AmongUs #04](https://www.youtube.com/watch?v=hOuFkySj5ck)
-- [Far Cry 3 | අභිරහස් දූපතේ සිට #02 🏞](https://www.youtube.com/watch?v=MCW__zgtlPA)
 <!-- YOUTUBE:END -->
 
 
