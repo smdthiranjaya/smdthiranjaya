@@ -49,7 +49,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The Muck | වෙනම ආතල් එකක් අද | #01 😂](https://www.youtube.com/watch?v=ZheqY66IcB4)
+- [The Muck | වෙනම ආතල් එකක් අද | #01 😂](https://www.youtube.com/watch?v=X-PBseSoJf8)
 - [Far Cry 3 | අභිරහස් දූපතේ සිට නැවතත් #03 😲](https://www.youtube.com/watch?v=AX1dFt65J-o)
 - [Far Cry 3 | අභිරහස් දූපතේ සිට නැවතත් #03 😲](https://www.youtube.com/watch?v=0FbSRsqbBzc)
 - [Among us 👋 | Sri Lanka | Sinhala | ආතල් 💀 #AmongUs #07](https://www.youtube.com/watch?v=SdknYZtnJBM)
