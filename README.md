@@ -52,7 +52,7 @@
 - [The Muck | වෙනම ආතල් එකක් අද | #01 😂](https://www.youtube.com/watch?v=X-PBseSoJf8)
 - [The Muck | වෙනම ආතල් එකක් අද | #01 😂](https://www.youtube.com/watch?v=ZheqY66IcB4)
 - [Far Cry 3 | අභිරහස් දූපතේ සිට නැවතත් #03 😲](https://www.youtube.com/watch?v=AX1dFt65J-o)
-- [Far Cry 3 | අභිරහස් දූපතේ සිට නැවතත් #03 😲](https://www.youtube.com/watch?v=0FbSRsqbBzc)
+- [The end of the Far Cry 3 - ත්‍රාසය, භිතීය,භීශණය සහ කුතුහලය සමගින් ෆා-ක්‍රයි හි සමාප්තිය! #04 Sinhala](https://www.youtube.com/watch?v=0FbSRsqbBzc)
 - [Among us 👋 | Sri Lanka | Sinhala | ආතල් 💀 #AmongUs #07](https://www.youtube.com/watch?v=SdknYZtnJBM)
 <!-- YOUTUBE:END -->
 
