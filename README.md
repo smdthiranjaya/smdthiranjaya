@@ -49,11 +49,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 ආත්මයක් සටහන් වු දුර්ලභ අවස්තාව සජීවීව | Phasmophobia #01](https://www.youtube.com/watch?v=QFuuG63t6RY)
+- [🔴 ආත්මයක් සටහන් වු දුර්ලභ අවස්තාව සජීවීව | Phasmophobia #01](https://www.youtube.com/watch?v=jbL8zsTbyiE)
 - [Call of Duty: Modern Warfare | සෙරගෙම පලමු | 😈 #05](https://www.youtube.com/watch?v=XUWViuQunes)
 - [Call of Duty: Modern Warfare | නිකෝගෙ පලමු | #03 #srilanka #sinhala #livegamplay 🔥](https://www.youtube.com/watch?v=MBMHSgBrGiQ)
 - [Call of Duty: Modern Warfare | බෙදිලා මරා ගැනීම | #02 #srilanka #sinhala #livegamplay 🔥](https://www.youtube.com/watch?v=fVsb5eugLKg)
-- [Call of Duty: Modern Warfare | ගැම්මක් අල්ලමු | #01 #srilanka #sinhala #livegamplay 🔥](https://www.youtube.com/watch?v=Q84WK6RQRKY)
-- [How to Play Easily Far Cry 3 CO-OP on Online Multiplayer Using Radmin VPN 100% Working #farcry3](https://www.youtube.com/watch?v=93pomXHNaw0)
 <!-- YOUTUBE:END -->
 
 
