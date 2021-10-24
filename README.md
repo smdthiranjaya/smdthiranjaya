@@ -49,11 +49,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [🔴 හද මොරන කාලේට එන විලසෑනි අවතාරය සොයා ගිය ගමන](https://www.youtube.com/watch?v=uO_-c1V6JCU)
 - [🔴 කැමරාවට සටහන් වූ අමුනුෂ්‍ය අවතාරය සත්‍ය දර්ශන සජීවීව | Phasmophobia #02](https://www.youtube.com/watch?v=vGocnig9-po)
 - [🔴 දකුණු ආසියාවෙ පළමු වතාවට ආත්මයක් සටහන් වු දුර්ලභ අවස්තාව සජීවීව | Phasmophobia #01](https://www.youtube.com/watch?v=jbL8zsTbyiE)
 - [Call of Duty: Modern Warfare | සෙරගෙම පලමු | 😈 #05](https://www.youtube.com/watch?v=XUWViuQunes)
 - [Call of Duty: Modern Warfare | නිකෝගෙ පලමු | #03 #srilanka #sinhala #livegamplay 🔥](https://www.youtube.com/watch?v=MBMHSgBrGiQ)
+- [Call of Duty: Modern Warfare | බෙදිලා මරා ගැනීම | #02 #srilanka #sinhala #livegamplay 🔥](https://www.youtube.com/watch?v=fVsb5eugLKg)
 <!-- YOUTUBE:END -->
 
 
