@@ -49,11 +49,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 The NEW Fire Ghost is Actually much Cooler than you Think - Phasmophobia #live #08](https://www.youtube.com/watch?v=86FhmMEPrXk)
 - [🔴 THIS IS WHAT HAPPENS WHEN THE GHOSTS GET YOU | Phasmophobia #live #07 Part 2](https://www.youtube.com/watch?v=zagR_57mDBM)
 - [🔴 THIS IS WHAT HAPPENS WHEN THE GHOSTS GET YOU | Phasmophobia #live #07 Part 1](https://www.youtube.com/watch?v=rgAqO0nbHNg)
 - [🔴 GHOST HUNTING WITH THE BOYS | Phasmophobia #live ##06](https://www.youtube.com/watch?v=8N05vbJ-0IM)
 - [🔴 ගුරුකමකින් ප්‍රේතයෙක් බන්ධනය කරපු සිදුවීම්](https://www.youtube.com/watch?v=HGRn2uAB_X0)
-- [🔴 සුදු සුම්බරය බැදගෙන ඇවිදින ආත්මය සොයා ගිය ගමන සජීවීව | Phasmophobia #04](https://www.youtube.com/watch?v=BAIaFLa6KgI)
 <!-- YOUTUBE:END -->
 
 
