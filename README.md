@@ -49,11 +49,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 BATTLEFIELD 5 ආඩවනේ ඒඩවඩේ අලියෙක් හිටියා.. 😂  #live #02 #BattlefieldV](https://www.youtube.com/watch?v=xpBsgL1t7bI)
 - [🔴 BATTLEFIELD 5 Walkthrough Gameplay - INTRO &lpar;Battlefield V&rpar; #live #01 #BattlefieldV](https://www.youtube.com/watch?v=S0oX2YDoFr4)
 - [🔴 The NEW Fire Ghost is Actually much Cooler than you Think - Phasmophobia #live #08](https://www.youtube.com/watch?v=86FhmMEPrXk)
 - [🔴 THIS IS WHAT HAPPENS WHEN THE GHOSTS GET YOU | Phasmophobia #live #07 Part 2](https://www.youtube.com/watch?v=zagR_57mDBM)
 - [🔴 THIS IS WHAT HAPPENS WHEN THE GHOSTS GET YOU | Phasmophobia #live #07 Part 1](https://www.youtube.com/watch?v=rgAqO0nbHNg)
-- [🔴 GHOST HUNTING WITH THE BOYS | Phasmophobia #live ##06](https://www.youtube.com/watch?v=8N05vbJ-0IM)
 <!-- YOUTUBE:END -->
 
 
