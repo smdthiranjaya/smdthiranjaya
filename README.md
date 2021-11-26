@@ -49,11 +49,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 Phasmophobia New Update | බය වෙමුතේ 😂අලුත් අප්ඩේට් එක | #live #08](https://www.youtube.com/watch?v=R9k1a4LIscc)
 - [😂 Subscribe For More #daredevilgaming #live #shorts #tiktok](https://www.youtube.com/watch?v=mSJ-rc9aaCI)
 - [🔴 BATTLEFIELD 5 ආඩවනේ ඒඩවඩේ අලියෙක් හිටියා.. 😂  #live #02 #BattlefieldV](https://www.youtube.com/watch?v=xpBsgL1t7bI)
 - [🔴 BATTLEFIELD 5 Walkthrough Gameplay - INTRO &lpar;Battlefield V&rpar; #live #01 #BattlefieldV](https://www.youtube.com/watch?v=S0oX2YDoFr4)
 - [🔴 The NEW Fire Ghost is Actually much Cooler than you Think - Phasmophobia #live #08](https://www.youtube.com/watch?v=86FhmMEPrXk)
-- [🔴 THIS IS WHAT HAPPENS WHEN THE GHOSTS GET YOU | Phasmophobia #live #07 Part 2](https://www.youtube.com/watch?v=zagR_57mDBM)
 <!-- YOUTUBE:END -->
 
 
