@@ -49,11 +49,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [අදෘශ්‍යමාන බලවේගයක් සොයා ගිය මිතුරෝ](https://www.youtube.com/watch?v=SC02DgU_jNg)
 - [🔴 LIVE | How to withdraw Phasmophobia Money to Sri lanka Direct Bank #live #10](https://www.youtube.com/watch?v=e4D4JvcBeAg)
 - [🔴 Phasmophobia New Update | බය වෙමුතේ 😂අලුත් අප්ඩේට් එක | #live #08](https://www.youtube.com/watch?v=R9k1a4LIscc)
 - [😂 Subscribe For More #daredevilgaming #live #shorts #tiktok](https://www.youtube.com/watch?v=mSJ-rc9aaCI)
 - [🔴 BATTLEFIELD 5 ආඩවනේ ඒඩවඩේ අලියෙක් හිටියා.. 😂  #live #02 #BattlefieldV](https://www.youtube.com/watch?v=xpBsgL1t7bI)
+- [🔴 BATTLEFIELD 5 Walkthrough Gameplay - INTRO &lpar;Battlefield V&rpar; #live #01 #BattlefieldV](https://www.youtube.com/watch?v=S0oX2YDoFr4)
 <!-- YOUTUBE:END -->
 
 
