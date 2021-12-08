@@ -52,6 +52,8 @@
 - [🔴 LIVE | Phasmophobia | Asylum | කුරුණෑගල මහ රෝහලේ සිට #phasmophobia  #13](https://www.youtube.com/watch?v=5EI264_c4fs)
 - [🔴 LIVE | විරාමයෙන් පසුව | රුසිරු යකැදුරාගේ ආගමනය #12](https://www.youtube.com/watch?v=3EpBbPM770w)
 - [🔴 LIVE | අදෘශ්‍යමාන බලවේගයක් සොයා ගිය මිතුරෝ | #11 #live](https://www.youtube.com/watch?v=SC02DgU_jNg)
+- [🔴 LIVE | How to withdraw Phasmophobia Money to Sri lanka Direct Bank #live #10](https://www.youtube.com/watch?v=e4D4JvcBeAg)
+- [🔴 Phasmophobia New Update | බය වෙමුතේ 😂අලුත් අප්ඩේට් එක | #live #08](https://www.youtube.com/watch?v=R9k1a4LIscc)
 <!-- YOUTUBE:END -->
 
 
