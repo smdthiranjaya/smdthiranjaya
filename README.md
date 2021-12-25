@@ -49,11 +49,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 LIVE PUBG MOBILE අද පබ්ජියක් ගහමු #01](https://www.youtube.com/watch?v=VtFNhAQ9uUk)
 - [🔴 LIVE Phasmophobia සුළු දෙයටත් බියට පත්වන්නන් නැරැඹීමෙන් වළකින්න #14](https://www.youtube.com/watch?v=M32RORd_L_s)
 - [😂](https://www.youtube.com/watch?v=fYm6Ue9DWW4)
 - [😂](https://www.youtube.com/watch?v=KfXDNbHYjOc)
 - [🔴 LIVE Phasmophobia හේ යාලුවෙ අපි ආවා Epi.13](https://www.youtube.com/watch?v=vqPEmwHmA80)
-- [🔴 LIVE | Phasmophobia | Asylum | කුරුණෑගල මහ රෝහලේ සිට #phasmophobia  #13](https://www.youtube.com/watch?v=5EI264_c4fs)
 <!-- YOUTUBE:END -->
 
 
