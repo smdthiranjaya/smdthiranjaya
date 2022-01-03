@@ -82,5 +82,5 @@
 
 [website]: https://hashx.me
 [twitter]: https://twitter.com/Hashx_official
-[youtube]: https://www.youtube.com/channel/UCheZOdn_MZrHQqvtoJh4S9w
+[youtube]: https://www.youtube.com/channel/UCp5CZPNHUH80O5G7jm2zhYw
 [instagram]: https://www.instagram.com/hashx_official
