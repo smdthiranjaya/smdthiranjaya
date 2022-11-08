@@ -14,16 +14,16 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Hashx_official?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHashx_official&screen_name=Hashx_official)
 ##
 
-- 🔭 I’m currently working as a student at NIBM.
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Create my own world(Game)
-- ⚡ Fun fact: I love to design and steam pc games(links down below)
+- 🔭 I’m currently studying at NIBM.
+- 🌱 I’m currently learning everything.
+- 👯 I’m looking to collaborate with any person.
+- 🥅 2023 Goals: Create my own game.
+- ⚡ Fun fact: playing games.
 
 ### Github Status:
-- ![Profile views](https://gpvc.arturio.dev/hash-xx)
-- [![GitHub followers](https://img.shields.io/github/followers/hash-xx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/hash-xx?tab=followers)
-- ![GitHub Stars](https://img.shields.io/github/stars/hash-xx?affiliations=OWNER%2CCOLLABORATOR&label=Stars&maxAge=2592000)
+- ![Profile views](https://gpvc.arturio.dev/smdthiranjaya)
+- [![GitHub followers](https://img.shields.io/github/followers/smdthiranjaya.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/hash-xx?tab=followers)
+- ![GitHub Stars](https://img.shields.io/github/stars/smdthiranjaya?affiliations=OWNER%2CCOLLABORATOR&label=Stars&maxAge=2592000)
 
 ## Languages and Tools:
 
@@ -74,9 +74,9 @@
 
 </details>
 
-  <img align="left" alt="hash-xx's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hash-xx&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="Thirah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=smdthiranjaya&show_icons=true&hide_border=true&theme=radical" />
 
-  <img align="left" alt="hash-xx's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-xx&langs_count=8&hide_border=true&theme=radical" />
+  <img align="left" alt="Thirah's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smdthiranjaya&langs_count=8&hide_border=true&theme=radical" />
 
 
 
