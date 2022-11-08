@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-c13584?style=flat&labelColor=blue&logo=twitter&logoColor=white)](https://twitter.com/Hashx_official)
 ### Hi there, I'm Thiranjaya AKA [Thirah][website] 👋
 
-A [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&width=500&lines=Software+Engineer.;System+Support+Engineer.;Discord+Bot+%7C+IOT++Developer.;Game+Developer.)](https://github.com/smdthiranjaya)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&width=500&lines=A Software+Engineer.;System+Support+Engineer.;Discord+Bot+%7C+IOT++Developer.;Game+Developer.)](https://github.com/smdthiranjaya)
 
 [![Website](https://img.shields.io/website?label=hashx.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hashx.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Hashx_official?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHashx_official&screen_name=Hashx_official)
