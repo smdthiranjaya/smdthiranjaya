@@ -1,4 +1,4 @@
-![Header Image](https://github.com/smdthiranjaya/smdthiranjaya/blob/main/header.jpg?raw=true)
+![Header Image](https://github.com/smdthiranjaya/smdthiranjaya/blob/main/header%20profile.jpg?raw=true)
 
 # 🤗 Well, Hello There! Thrilled to Have You Here!
 
